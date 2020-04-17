@@ -32,3 +32,4 @@ For applications written in C++, run:
 clang++ --analyze -Xanalyzer -analyzer-checker=unix,alpha example.cpp
 ```
 Both `clang` and `clang++` can be found in `llvm-project/build/bin`.
+edit
